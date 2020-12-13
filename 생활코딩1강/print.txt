@@ -1,0 +1,5 @@
+public static main Main(String[] args){
+
+System.out.println("이것은 첫 강의입니다");
+
+}
